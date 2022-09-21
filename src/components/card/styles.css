@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+}
+
+.card {
+    width: 50vw;
+    display: flex;
+}
+
+.card p {
+    margin-top: 10px;
+}
+
+.card img {
+    width: 350px;
+    border-radius: 20px;
+    margin-left: auto;
+}

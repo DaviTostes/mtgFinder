@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+}
+
+.App {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  width: 1000px;
+}
+
+.container input {
+  width: 995px;
+  height: 40px;
+  padding: 5px;
+  font-size: 20px;
+}
+
+.container button {
+  margin: 24px 0px;
+  width: 100px;
+  height: 30px;
+}
